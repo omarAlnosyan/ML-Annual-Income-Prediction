@@ -57,7 +57,9 @@ Overfitting occurs when a model performs well on training data but poorly on uns
 ### **1️⃣ Decision Tree (Prone to Overfitting)**
 ✅ **Solution:**
 - **Limited max depth to 3** → Prevents excessive branching and overfitting.
-- **Minimum samples per leaf = 5** → Ensures that each node split is meaningful.
+- **Minimum samples per leaf = 5** → Ensures that each node split is meaningful
+- ![image](https://github.com/user-attachments/assets/41f33018-f9b5-449c-8024-8e6659ee094d)
+
 
 ### **2️⃣ Support Vector Machine (SVM)**
 ✅ **Solution:**
